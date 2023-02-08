@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unterrichtseinheit_5_Beispiele_Checkbox_etc", "Unterrichtseinheit_5\Unterrichtseinheit_5_Beispiele_Checkbox_etc.csproj", "{67AEF0E4-3D6D-444F-9658-69EFC9F596AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe_A5-1-3_Game", "Aufgabe_A5-1\Aufgabe_A5-1-3_Game.csproj", "{E2DB3E79-2FE4-4165-8B13-65C51FF4C12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AEF0E4-3D6D-444F-9658-69EFC9F596AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AEF0E4-3D6D-444F-9658-69EFC9F596AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AEF0E4-3D6D-444F-9658-69EFC9F596AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AEF0E4-3D6D-444F-9658-69EFC9F596AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DB3E79-2FE4-4165-8B13-65C51FF4C12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DB3E79-2FE4-4165-8B13-65C51FF4C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DB3E79-2FE4-4165-8B13-65C51FF4C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DB3E79-2FE4-4165-8B13-65C51FF4C12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582AC418-4C2C-4847-A7C7-6438BD57D23D}
+	EndGlobalSection
+EndGlobal
