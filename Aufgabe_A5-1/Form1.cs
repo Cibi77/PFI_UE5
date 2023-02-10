@@ -83,6 +83,14 @@ namespace Aufgabe_A5_1
                 lives -= 1;
                 LblLives.Text = "Leben: " + Convert.ToString(lives);
                 ResetBall();
+
+                if (lives <= 0)
+                {
+                    // Verloren
+                    MessageBox.Show(this, "Sie haben alle Leben aufgebraucht und deshalb verloren!");
+                    lives = 5;
+                    ResetBall();
+                }
                 
             }
             

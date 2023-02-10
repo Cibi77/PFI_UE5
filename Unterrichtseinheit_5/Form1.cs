@@ -17,29 +17,11 @@ namespace Unterrichtseinheit_5
             InitializeComponent();
         }
 
-        private void ChkGrpB1_CheckedChanged(object sender, EventArgs e)
-        {
-            //if(ChkGrpB1.Checked == true)
-            if (ChkGrpB1.Checked)
-            {
-                LblGrp1L1.Text = "aktiv";
-            }
-            else
-            {
-                LblGrp1L1.Text = "inaktiv";
-            }
-        }
-
-        private void ChkGrp1B2_CheckedChanged(object sender, EventArgs e)
-        {
-            LblGrp1L2.Text = ChkGrp1B2.Checked ? "aktiv" : "inaktiv";
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
-            //LblGrp1L1.Text = ChkGrp1B1.Checked ? "aktiv" : "inaktiv";
+            LblGrp1L1.Text = ChkGrp1B1.Checked ? "aktiv" : "inaktiv";
             LblGrp1L2.Text = ChkGrp1B2.Checked ? "aktiv" : "inaktiv";
-            //LblGrp1L3.Text = ChkGrp1B3.Checked ? "aktiv" : "inaktiv";
+            LblGrp1L3.Text = ChkGrp1B3.Checked ? "aktiv" : "inaktiv";
         }
 
        
@@ -57,7 +39,6 @@ namespace Unterrichtseinheit_5
 
         private void CmdRandomValue_Click(object sender, EventArgs e)
         {
-
             /*      if (TmrRandomValue.Enabled)
                   {
                       TmrRandomValue.Stop();
@@ -70,10 +51,10 @@ namespace Unterrichtseinheit_5
                   }
             */
 
+            // Kurzschreibweise von oben:
             CmdRandomValue.Text = TmrRandomValue.Enabled ? "Start" : "Stop";
-            TmrRandomValue.Enabled =  !(TmrRandomValue.Enabled);
-            
 
+            TmrRandomValue.Enabled =  !(TmrRandomValue.Enabled);
         }
 
         private void TmrRandomValue_Tick(object sender, EventArgs e)
@@ -83,6 +64,13 @@ namespace Unterrichtseinheit_5
 
             LblOutput.Text = random.ToString();
             TrkValue.Value = random;
+        }
+
+        private void ChkGrp1_CheckedChanged(object sender, EventArgs e)
+        {
+            LblGrp1L1.Text = ChkGrp1B1.Checked ? "aktiv" : "inaktiv";
+            LblGrp1L2.Text = ChkGrp1B2.Checked ? "aktiv" : "inaktiv";
+            LblGrp1L3.Text = ChkGrp1B3.Checked ? "aktiv" : "inaktiv";
         }
     }
 }
