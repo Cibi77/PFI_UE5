@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\bin\Debug\Aufgabe_A5_1_1.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\bin\Debug\Aufgabe_A5_1_1.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\bin\Debug\Aufgabe_A5_1_1.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_5\PFI_UE5\Aufgabe_A5_1_1\obj\Debug\Aufgabe_A5_1_1.pdb
